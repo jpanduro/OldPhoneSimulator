@@ -8,8 +8,7 @@ namespace OldPhoneSimulator
         public static string OldPhonePad(string buttonSequence)
         {
             // Store the mobile keypad mappings
-            string[] nums = { " ", "", "ABC", "DEF", "GHI",
-                        "JKL", "MNO", "PQRS", "TUV", "WXYZ" };
+            string[] nums = { " ", "", "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ" };
 
             char[] resultChars = new char[buttonSequence.Length];
             int resultIndex = 0;
