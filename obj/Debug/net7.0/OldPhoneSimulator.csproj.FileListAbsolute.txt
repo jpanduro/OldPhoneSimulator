@@ -1,0 +1,15 @@
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/bin/Debug/net7.0/OldPhoneSimulator
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/bin/Debug/net7.0/OldPhoneSimulator.deps.json
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/bin/Debug/net7.0/OldPhoneSimulator.runtimeconfig.json
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/bin/Debug/net7.0/OldPhoneSimulator.dll
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/bin/Debug/net7.0/OldPhoneSimulator.pdb
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.csproj.AssemblyReference.cache
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.AssemblyInfoInputs.cache
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.AssemblyInfo.cs
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.csproj.CoreCompileInputs.cache
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.dll
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/refint/OldPhoneSimulator.dll
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.pdb
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/OldPhoneSimulator.genruntimeconfig.cache
+/Users/jpanduro/Documents/Iron Software/OldPhoneSimulator/obj/Debug/net7.0/ref/OldPhoneSimulator.dll
